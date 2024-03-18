@@ -14,6 +14,9 @@ A aplicação foi desenvolvida em Java, utilizando JavaFX para a parte gráfica,
 - **Pesquisar Cliente (por nome):** Permite buscar um cliente específico pelo nome.
 - **Exibir Lista de Clientes:** Permite visualizar a lista completa de clientes armazenados na agenda.
 
+<p align="center">
+  <img src="https://github.com/AndredsLima/Gest-o-Clientes/assets/137451523/a5127eda-e365-4654-95e2-27806f27f310" alt="Foto 2">
+</p>
 
 
 
