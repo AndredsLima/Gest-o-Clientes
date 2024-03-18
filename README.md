@@ -1,5 +1,10 @@
 # Sistema de Gestão de Clientes
 
+<p align="center">
+  <img src="https://github.com/AndredsLima/Gest-o-Clientes/assets/137451523/eb993330-edc5-493d-9891-244ce622514f" alt="Foto 1">
+</p>
+
+
 Este projeto consiste no desenvolvimento de um sistema de gestão de clientes para um supermercado. A motivação para esse trabalho surgiu da necessidade de otimizar o processo de identificação de clientes durante o atendimento no caixa, especialmente para os clientes cadastrados no clube de desconto.
 
 A aplicação foi desenvolvida em Java, utilizando JavaFX para a parte gráfica, e funciona como uma agenda de clientes, permitindo as seguintes funcionalidades:
@@ -8,6 +13,9 @@ A aplicação foi desenvolvida em Java, utilizando JavaFX para a parte gráfica,
 - **Excluir Cliente:** Permite remover clientes da agenda.
 - **Pesquisar Cliente (por nome):** Permite buscar um cliente específico pelo nome.
 - **Exibir Lista de Clientes:** Permite visualizar a lista completa de clientes armazenados na agenda.
+
+
+
 
 A implementação da agenda de clientes foi realizada utilizando uma tabela hash, o que garante eficiência na busca e manipulação dos clientes. Além disso, foram aplicados tratamentos de exceção para lidar com entradas inválidas e garantir o correto funcionamento da aplicação em diferentes cenários.
 
