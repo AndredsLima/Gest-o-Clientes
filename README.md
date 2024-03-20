@@ -11,7 +11,7 @@ A aplicação foi desenvolvida em Java, utilizando JavaFX para a parte gráfica,
 
 - **Adicionar Cliente:** Permite adicionar novos clientes à agenda, incluindo informações como nome, telefone, data de nascimento, e-mail e celular.
 - **Excluir Cliente:** Permite remover clientes da agenda.
-- **Pesquisar Cliente (por nome):** Permite buscar um cliente específico pelo nome.
+- **Pesquisar Cliente (por CPF):** Permite buscar um cliente específico pelo CPF.
 - **Exibir Lista de Clientes:** Permite visualizar a lista completa de clientes armazenados na agenda.
 
 <p align="center">
@@ -24,9 +24,7 @@ A implementação da agenda de clientes foi realizada utilizando uma tabela hash
 
 Este trabalho teve como objetivo aprimorar habilidades de programação em Java e desenvolvimento de interfaces gráficas com JavaFX. Espera-se que a implementação desse sistema contribua para melhorar a eficiência do atendimento no caixa do supermercado, proporcionando uma experiência mais ágil e satisfatória para os funcionários e clientes.
 
-# Sistema de Gestão de Clientes
 
-Este projeto consiste no desenvolvimento de um sistema de gestão de clientes para um supermercado. A motivação para esse trabalho surgiu da necessidade de otimizar o processo de identificação de clientes durante o atendimento no caixa, especialmente para os clientes cadastrados no clube de desconto.
 
 ## Instruções de Uso
 
